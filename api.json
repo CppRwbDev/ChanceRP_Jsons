@@ -1,5 +1,4 @@
 {
-    "enabled": true,
     "clientVersionCode": 1,
     "URL_GAME_FILES": "https://github.com/CppRwbDev/ChanceRP_Jsons/releases/download/Cache_v1/game.7z",
     "URL_GAME_FILES_1": "https://github.com/CppRwbDev/ChanceRP_Jsons/releases/download/Cache_v1/client.7z",
