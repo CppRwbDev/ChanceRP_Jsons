@@ -1,8 +1,8 @@
 [
 	{
-		"ip": "s1.chance-rp.com",
-		"port": 7777,
-		"name": "Chance RP"
+		"ip": "147.185.221.215",
+		"port": 62287,
+		"name": "S RP"
 	},
 	{
 		"ip": "185.207.214.14",
@@ -13,5 +13,10 @@
 		"ip": "practically-consultants.tun.ply.gg",
 		"port": 62287,
 		"name": "My RP"
+	},
+	{
+		"ip": "s1.chance-rp.com",
+		"port": 7777,
+		"name": "Chance RP"
 	}
 ]
